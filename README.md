@@ -2,6 +2,8 @@
 
 This repository contains the documentation for a comprehensive Virtual Lab Setup I created to simulate a real-world enterprise network infrastructure, aimed at enhancing my skills in cybersecurity. The lab is designed to provide hands-on experience with domain management, network security, vulnerability testing, and log aggregation, with integration of tools commonly used in the field.
 
+You can visit my google doc file for more details as well - https://docs.google.com/document/d/1Be1XJIG9njaiRo151rguEi9s4nBeHqwodnpDthCzlUs/edit?usp=sharing
+
 ## Table of Contents
 - [Network Topolgy](#network-topology)
 - [Project Overview](#project-overview)
