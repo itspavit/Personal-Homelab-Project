@@ -3,6 +3,7 @@
 This repository contains the documentation for a comprehensive Virtual Lab Setup I created to simulate a real-world enterprise network infrastructure, aimed at enhancing my skills in cybersecurity. The lab is designed to provide hands-on experience with domain management, network security, vulnerability testing, and log aggregation, with integration of tools commonly used in the field.
 
 ## Table of Contents
+- [Network Topolgy](#network-topology)
 - [Project Overview](#project-overview)
 - [Virtual Lab Architecture](#virtual-lab-architecture)
 - [Steps Taken](#steps-taken)
@@ -17,6 +18,9 @@ This repository contains the documentation for a comprehensive Virtual Lab Setup
 - [Tools Used](#tools-used)
 - [Conclusion](#conclusion)
 - [License](#license)
+
+## Network Topolgy
+![image alt](https://github.com/itspavit/Personal-Homelab-Project/blob/main/network-topology.jpg?raw=true)
 
 ## Project Overview
 This project focuses on setting up a virtualized network environment that mirrors a typical enterprise infrastructure. The virtual lab setup includes three virtual machines, each configured with specific roles and services to simulate a small organizational network.
